@@ -93,3 +93,7 @@ plt.show()
 ## Output:
 
 ![image](https://github.com/user-attachments/assets/1df19302-b5f8-4d4f-9bc0-61eaddfc0175)
+
+## Result:
+Thus,a program to build a Multilayer Perceptron (MLP) to classify handwritten digits in python has been successfully executed.
+
